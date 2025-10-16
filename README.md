@@ -10,7 +10,7 @@ The goal of this project is to predict whether a customer will churn (leave) bas
 
 For a detailed walkthrough and demonstration of the project, please watch the video linked below:
 
-[Watch the Full Project Demo on Google Drive]([YOUR_GOOGLE_DRIVE_VIDEO_URL_HERE])
+[Watch the Full Project Demo on Google Drive](https://drive.google.com/file/d/1RVBJAJr49dRNVvZM6tT-O1KMneKoFba5/view?usp=sharing)
 
 ## 📊 Dataset Description
 
