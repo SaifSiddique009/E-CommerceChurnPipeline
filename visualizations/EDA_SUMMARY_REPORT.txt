@@ -1,0 +1,28 @@
+EXPLORATORY DATA ANALYSIS SUMMARY
+========================================
+
+1. DATASET INFORMATION
+   - Total Rows: 1000
+   - Total Columns: 15
+   - Missing Values: 0
+   - Duplicate Rows: 0
+
+2. TARGET VARIABLE
+   - Churn Rate: 52.60%
+   - Churned Customers: 526
+   - Retained Customers: 474
+
+3. FEATURES
+   - Numerical Features: 10
+   - Categorical Features: 3 (Gender, Promotion_Response, Email_Opt_In)
+
+4. KEY INSIGHTS
+   Top 3 Features Positively Correlated with Churn:
+      1. Total_Spend: 0.029
+      2. Satisfaction_Score: 0.023
+      3. Num_of_Support_Contacts: 0.010
+
+   Top 3 Features Negatively Correlated with Churn:
+      1. Years_as_Customer: -0.030
+      2. Num_of_Purchases: -0.033
+      3. Annual_Income: -0.036

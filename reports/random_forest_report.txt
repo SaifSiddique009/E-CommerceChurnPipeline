@@ -1,0 +1,11 @@
+Random Forest Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+ Not Churned     0.5098    0.3662    0.4262        71
+     Churned     0.5455    0.6835    0.6067        79
+
+    accuracy                         0.5333       150
+   macro avg     0.5276    0.5249    0.5165       150
+weighted avg     0.5286    0.5333    0.5213       150

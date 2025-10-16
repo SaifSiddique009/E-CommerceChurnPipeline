@@ -1,0 +1,11 @@
+XGBoost Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+ Not Churned     0.5357    0.2113    0.3030        71
+     Churned     0.5410    0.8354    0.6567        79
+
+    accuracy                         0.5400       150
+   macro avg     0.5383    0.5234    0.4799       150
+weighted avg     0.5385    0.5400    0.4893       150

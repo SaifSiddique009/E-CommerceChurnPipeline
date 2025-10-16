@@ -1,0 +1,11 @@
+LightGBM Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+ Not Churned     0.5294    0.1268    0.2045        71
+     Churned     0.5338    0.8987    0.6698        79
+
+    accuracy                         0.5333       150
+   macro avg     0.5316    0.5127    0.4372       150
+weighted avg     0.5317    0.5333    0.4496       150
